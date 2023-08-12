@@ -1,0 +1,11 @@
+.completed {
+    background-color: rgb(78, 171, 247);
+}
+
+.ongoing {
+    background-color: rgb(44, 202, 44);
+}
+
+.planned {
+    background-color: rgb(240, 107, 107);
+}

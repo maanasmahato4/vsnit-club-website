@@ -1,0 +1,21 @@
+.vidplayer {
+    width: 70%;
+}
+
+.vidscroll {
+    width: 30%;
+}
+
+.y_pointer {
+    cursor: pointer;
+}
+
+@media screen and (max-width: 991px) {
+    .vidplayer {
+        width: 100%;
+    }
+
+    .vidscroll {
+        width: 100%;
+    }
+}

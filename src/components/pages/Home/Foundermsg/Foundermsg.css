@@ -1,0 +1,22 @@
+.founder__img {
+    height: 20rem;
+    width: 20rem;
+    border: none;
+}
+
+.dev_ul {
+    list-style: none;
+}
+
+.dev_ul li {
+    margin-inline: 0.5rem;
+}
+
+@media (min-width: 1860px) and (max-width: 2800px) {
+    .founder__img {
+        height: 40rem;
+        width: 40rem;
+        border: none;
+        border-radius: 50%;
+    }
+}
